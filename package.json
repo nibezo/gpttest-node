@@ -1,0 +1,7 @@
+{
+  "type": "commonjs",
+  "dependencies": {
+    "@yuva1422/telegram.js": "^1.0.5",
+    "openai": "^3.2.1"
+  }
+}
